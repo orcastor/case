@@ -55,5 +55,5 @@
 
 ### 优势：
 
-- PCIe没有×4，只有USB 3.1 Type-C接口的情况下（比如Orange Pi 5主板）
-- M.2 ×1的接口（500 MB/s）没有USB 3.1 Type-C（1280 MB/s）的速度快，该方案更合适
+- 只有USB 3.1 Type-C接口的情况下（比如Orange Pi 5主板）
+- PCIe 2.0 ×1的接口（500 MB/s）没有USB 3.1 Type-C（1280 MB/s）的速度快，该方案更合适
