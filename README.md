@@ -36,6 +36,16 @@
 
 <h2 align="center">—— 自制背板成本低至23% ——</h2>
 
+### 效果
+
+<a href="https://raw.githubusercontent.com/orcastor/case/master/assets/inner.jpg">
+  <img src="./assets/inner.jpg" width="20%" />
+</a><a href="https://raw.githubusercontent.com/orcastor/case/master/assets/outter.jpg">
+  <img src="./assets/outter.jpg" width="29.3%" />
+</a><a href="https://raw.githubusercontent.com/orcastor/case/master/assets/match.jpg">
+  <img src="./assets/match.jpg" width="22%" />
+</a>
+
 ### 使用裸板易驱线替换6盘位背板
 
 原方案：
