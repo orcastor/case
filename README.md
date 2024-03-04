@@ -48,8 +48,9 @@
 
 ## 工具
 
+- 3D打印机
 - 十字起子
-- 修边高达雕刻刀
+- 修边雕刻刀
 - 电烙铁
 - 小号内六边扳手
 
@@ -108,16 +109,16 @@
 - 只有USB 3.1 Type-C接口的情况下（比如Orange Pi 5主板）
 - PCIe 2.0 ×1的接口（480 MB/s）没有USB 3.1 Type-C（1250 MB/s）的速度快，该方案更合适
 
-<h2 align="center">为什么选择Rockchip而不是Intel？</h2>
+<h2 align="center">为什么选择RK3588而不是J4125？</h2>
 
 - 性能对比 [J4125 vs RK3588S](https://gadgetversus.com/processor/intel-celeron-j4125-vs-rockchip-rk3588s/)
 
-|核心|优势|
-|-|-|
-|Intel Celeron J4125|1. x86架构，应用支持广泛|
-||2. PCIe通道多|
-|Rockchip RK3588S|1. CPU评分高了一倍|
-||2. AI算力6T ops（对比无AI芯片）|
-||3. 内存上限高（32GB vs 8GB）|
-||4. 核心数多（8核 vs 4核）|
-||5. GPU性能评分4倍多|
+||Intel Celeron J4125|Rockchip RK3588S|
+|-|-|-|
+|架构|✔️x86应用支持广泛|ARM支持少|
+|PCIe通道|✔️×4|×1|
+|CPU评分|3,031|✔️6,133|
+|AI算力|无|✔️6T ops|
+|内存上限|8GB|✔️32GB|
+|核心数|4核|✔️8核|
+|GPU评分|45.4 GFLOPS|✔️65.3 GFLOPS|
