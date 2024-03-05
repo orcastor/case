@@ -6,6 +6,13 @@
 
 <h1 align="center"><strong>OrcaS 3D打印外壳</strong></h1>
 
+<p align="center">
+  <a href="https://raw.githubusercontent.com/orcastor/case/master/assets/ORCASTOR.jpg">
+    <img src="./assets/ORCASTOR.jpg" width="50%" />
+  </a>
+</p>
+
+
 # BOM表
 
 ## 打印件
@@ -18,7 +25,7 @@
 |内框|1|PETG/PLA/ABS|194g 64.92m|26h40min|0.2mm|2层墙，0层顶底，30%锯齿填充||
 |硬盘笼|1|PETG/PLA/ABS|151g 50.55m|33h23min|0.2mm|2层墙，0层顶底，40%锯齿填充||
 |硬盘支架|6|PETG/ABS|11g 3.54m|1h51min|0.2mm|3层墙，0层顶底，30%锯齿填充||
-|背板|1|PETG/ABS|22g|5h12min|0.12mm/0.16mm|2层墙，1层顶底，60%锯齿填充|注意凹槽向下，可能要反过来打|
+|背板|1|PETG/ABS|22g 7.3m|5h12min|0.12mm/0.16mm|2层墙，1层顶底，60%锯齿填充|注意凹槽向下，可能要反过来打|
 |背盖|6|PETG/ABS|1g 0.39m|17min|0.12mm/0.16mm|2层墙，0层顶底，50%锯齿填充||
 
 - 材料费：按1kg 50元计算，683g=￥34
@@ -34,7 +41,7 @@
 |5V4A Type-C电源|1|￥20|
 |Type-C -> USB3.0×7 Hub|1|￥15|
 |40×20×3mm硅胶脚垫|4|￥10|发6个|
-|裸板易驱线（送数据线）|6|￥60|主控JMS577泰国产
+|裸板易驱线（送数据线）|6|￥60|主控JMS577泰国产?
 |Type-C公头带软排线|1|￥7|
 |Type-C两焊点母座|1|￥2.5|
 |4010风扇|2|￥7|
@@ -63,14 +70,26 @@
 ## 建议配置
 
 - 【×6】2.5英寸机械硬盘，附：[垂直盘、叠瓦盘型号大全](https://www.chiphell.com/thread-2352857-1-1.html?ivk_sa=1024320u)
-  - 西数黑盘WD5000LPLX【500 GB】7200rpm（容量大性能好的2.5英寸垂直盘）（闲鱼价格在￥65左右）
-  - 西数蓝盘WD30NPRZ【3 TB】5400rpm（容量最大的2.5英寸垂直盘）（闲鱼价格在￥380左右）
-  - 如果存储文件多可以选择500 GB × 6，如果视频电影多可以选择3TB × 6，也可以混合存储500 GB × 4 + 3 TB × 2
+  - 西数黑盘WD5000LPLX【500 GB】7200转 7mm（96性能好的2.5英寸垂直盘）（闲鱼价格在￥65左右）
+  
+    <a href="https://raw.githubusercontent.com/orcastor/case/master/assets/WD5000LPLX.jpg">
+      <img src="./assets/WD5000LPLX.jpg" width="20%" />
+    </a>
+
+  - 西数蓝盘WD30NPRZ【3 TB】5400转 13.5mm（容量最大的2.5英寸垂直盘，上面表里面没有列）（闲鱼价格在￥380左右）
+
+    <a href="https://raw.githubusercontent.com/orcastor/case/master/assets/WD30NPRZ.jpg">
+      <img src="./assets/WD30NPRZ.jpg" width="20%" />
+    </a>
+
+  - 小文件多可以选择500 GB × 6，视频、电影多可以选择3TB × 6，或混合存储500 GB × 4 + 3 TB × 2
 - 【×1】120 GB SSD装在主板下方的内框上（闲鱼价格￥50左右，要求不高）
 - 【×1】128 GB NVMe SSD装在M.2接口上（三星PM991或者西数SN520，闲鱼价格￥40左右）
 - 【×1】【选配】外挂1\~5TB移动硬盘到USB 3.0接口（480 MB/s）（￥500左右，建议西数移动硬盘Elements）
 - 总容量：3\~18 TB内存储 + 128 GB SSD系统盘 + 120 GB SSD加速盘 + 1\~5T外存储
 - 存储总价：￥480~2370
+
+> ⚠ 注意：最右侧硬盘高度只支持到10mm，如果满配3TB，可以将主板下方的内框上SSD加速盘和最右侧硬盘对调
 
 ## 总成本
 
