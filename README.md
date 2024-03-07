@@ -7,9 +7,7 @@
 <h1 align="center"><strong>OrcaS 3D打印外壳</strong></h1>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/orcastor/case/master/assets/ORCASTOR.jpg">
-    <img src="./assets/ORCASTOR.jpg" width="50%" />
-  </a>
+  <img src="./assets/ORCASTOR.jpg" width="50%" />
 </p>
 
 <h1 align="center">BOM表</h1>
@@ -66,23 +64,17 @@
 ## 建议配置
 
 - 【×6】2.5英寸机械硬盘，附：[垂直盘、叠瓦盘型号大全](https://www.chiphell.com/thread-2352857-1-1.html?ivk_sa=1024320u)
-  - 西数黑盘WD5000LPLX【500 GB】7200转 7 mm（性能超好又足够大的2.5英寸垂直盘）（闲鱼价格在￥65左右）
-  
-    <a href="https://raw.githubusercontent.com/orcastor/case/master/assets/WD5000LPLX.jpg">
-      <img src="./assets/WD5000LPLX.jpg" width="20%" />
-    </a>
+  - 西数黑盘WD5000LPLX【500 GB】7200转 7 mm（性能超好又足够大的垂直盘）（闲鱼价格在￥65左右）
 
-  - 三星希捷ST1500LM006【1.5 TB】5400转 9.5 mm（上面表里面没有列）（闲鱼价格在￥188左右）
+    <img src="./assets/WD5000LPLX.jpg" width="20%" />
 
-    <a href="https://raw.githubusercontent.com/orcastor/case/master/assets/ST1500LM006.jpg">
-      <img src="./assets/ST1500LM006.jpg" width="20%" />
-    </a>
+  - 三星希捷ST1500LM006【1.5 TB】5400转 9.5 mm（垂直盘，上面表里面没有列）（闲鱼价格在￥188左右）
 
-  - 西数蓝盘WD30NPRZ【3 TB】5400转 13.5 mm（容量最大的2.5英寸垂直盘，上面表里面没有列）（闲鱼价格在￥380左右）（需要打印15mm间距硬盘支架）
+    <img src="./assets/ST1500LM006.jpg" width="20%" />
 
-    <a href="https://raw.githubusercontent.com/orcastor/case/master/assets/WD30NPRZ.jpg">
-      <img src="./assets/WD30NPRZ.jpg" width="20%" />
-    </a>
+  - 西数蓝盘WD30NPRZ【3 TB】5400转 13.5 mm（容量最大的2.5英寸垂直盘，上面表里面没有列）（闲鱼价格在￥380左右）**（需要打印15mm间距硬盘支架）**
+
+    <img src="./assets/WD30NPRZ.jpg" width="20%" />
 
   - 小文件多可以选择500 GB × 6，视频、电影多可以选择3 TB × 6，或混合存储500 GB × 4 + 3 TB × 2等等
 - 【×1】120 GB SSD装在主板下方的内框上（闲鱼价格￥50左右，要求不高）
@@ -125,13 +117,9 @@
 
 ### 效果（严丝合缝）
 
-<a href="https://raw.githubusercontent.com/orcastor/case/master/assets/inner.jpg">
   <img src="./assets/inner.jpg" width="20%" />
-</a><a href="https://raw.githubusercontent.com/orcastor/case/master/assets/outter.jpg">
   <img src="./assets/outter.jpg" width="29.3%" />
-</a><a href="https://raw.githubusercontent.com/orcastor/case/master/assets/match.jpg">
   <img src="./assets/match.jpg" width="22%" />
-</a>
 
 ### 优势：
 
