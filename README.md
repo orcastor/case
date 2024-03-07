@@ -66,7 +66,7 @@
 ## 建议配置
 
 - 【×6】2.5英寸机械硬盘，附：[垂直盘、叠瓦盘型号大全](https://www.chiphell.com/thread-2352857-1-1.html?ivk_sa=1024320u)
-  - 西数黑盘WD5000LPLX【500 GB】7200转 7 mm（性能好的2.5英寸垂直盘）（闲鱼价格在￥65左右）
+  - 西数黑盘WD5000LPLX【500 GB】7200转 7 mm（性能超好又足够大的2.5英寸垂直盘）（闲鱼价格在￥65左右）
   
     <a href="https://raw.githubusercontent.com/orcastor/case/master/assets/WD5000LPLX.jpg">
       <img src="./assets/WD5000LPLX.jpg" width="20%" />
@@ -88,7 +88,7 @@
 - 【×1】120 GB SSD装在主板下方的内框上（闲鱼价格￥50左右，要求不高）
 - 【×1】128 GB NVMe SSD装在M.2接口上（三星PM991或者西数SN520，闲鱼价格￥40左右）
 - 【选配】【×1】外挂1 \~ 5TB移动硬盘到USB 3.0接口（480 MB/s）（￥500左右，建议西数移动硬盘Elements）
-- 总容量：3 \~ 9 TB内存储 + 128 GB SSD系统盘 + 120 GB SSD加速盘 + 1 \~ 5T外存储
+- 总容量：3 \~ 18 TB内存储 + 128 GB SSD系统盘 + 120 GB SSD加速盘 + 1 \~ 5T外存储
 - 存储总价：￥480 \~ 2370
 
 > ⚠ 注意：最右侧硬盘高度只支持到10 mm，如果满配6块3 TB，可以将主板下方的内框上SSD加速盘和最右侧硬盘对调
