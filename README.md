@@ -128,8 +128,11 @@
 
 ### 支持的两种型号的裸板
 
-  <img src="./assets/typesA.jpg" width="20%" />
-  <img src="./assets/typesB.jpg" width="20%" />
+  <a href="https://raw.githubusercontent.com/orcastor/case/master/assets/typesA.jpg">
+    <img src="./assets/typesA.jpg" width="20%" />
+  </a><a href="https://raw.githubusercontent.com/orcastor/case/master/assets/typesB.jpg">
+    <img src="./assets/typesB.jpg" width="20%" />
+  </a>
 
 ### 优势：
 
@@ -138,8 +141,11 @@
 
 <h2 align="center">硬盘最大高度支持到15mm</h2>
 
-  <img src="./assets/tray15mm1.jpg" width="20%" />
-  <img src="./assets/tray15mm2.jpg" width="36%" />
+  <a href="https://raw.githubusercontent.com/orcastor/case/master/assets/tray15mm1.jpg">
+    <img src="./assets/tray15mm1.jpg" width="20%" />
+  </a><a href="https://raw.githubusercontent.com/orcastor/case/master/assets/tray15mm2.jpg">
+    <img src="./assets/tray15mm2.jpg" width="36%" />
+  </a>
 
 <h2 align="center">为什么选择RK3588而不是J4125？</h2>
 
