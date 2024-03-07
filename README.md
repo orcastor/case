@@ -18,15 +18,15 @@
 
 - 衍生自[@汪汪队射手](https://space.bilibili.com/300702869)的[QNAS Mini](https://github.com/thunder439/QNASMINI)，非常感谢~
 
-|位置|数量|材质|1.75mm用量|100mm/s耗时|精度|配置||
-|-|-|-|-|-|-|-|-|
-|外壳|1|PETG/PLA/ABS|244g 103.89m|31h8min|0.2mm|2层墙，2层顶底，20%锯齿填充||
-|内框|1|PETG/PLA/ABS|194g 64.92m|26h40min|0.2mm|2层墙，0层顶底，30%锯齿填充||
-|硬盘笼|1|PETG/PLA/ABS|151g 50.55m|33h23min|0.2mm|2层墙，0层顶底，40%锯齿填充||
-|硬盘支架|6|PETG/ABS|11g 3.54m|1h51min|0.2mm|3层墙，0层顶底，30%锯齿填充||
-|【可选】15mm间距硬盘支架|6|PETG/ABS|7g 2.21m|1h42min|0.2mm|3层墙，0层顶底，30%锯齿填充|注意反过来打印|
-|背板|1|PETG/ABS|22g 7.30m|5h12min|0.12mm/0.16mm|2层墙，1层顶底，60%锯齿填充|注意凹槽向下|
-|背盖|6|PETG/ABS|1g 0.39m|17min|0.12mm/0.16mm|2层墙，0层顶底，50%锯齿填充||
+|位置|图示|数量|材质|1.75mm用量|100mm/s耗时|精度|配置||
+|-|-|-|-|-|-|-|-|-|
+|外壳|<img src="./assets/outside_shell.png" width="20%" />|1|PETG/PLA/ABS|244g 103.89m|31h8min|0.2mm|2层墙，2层顶底，20%锯齿填充||
+|内框|<img src="./assets/inside_shell.png" width="20%" />|1|PETG/PLA/ABS|194g 64.92m|26h40min|0.2mm|2层墙，0层顶底，30%锯齿填充||
+|硬盘笼|<img src="./assets/disk_case.png" width="20%" />|1|PETG/PLA/ABS|151g 50.55m|33h23min|0.2mm|2层墙，0层顶底，40%锯齿填充||
+|硬盘支架|<img src="./assets/tray.png" width="20%" />|6|PETG/ABS|11g 3.54m|1h51min|0.2mm|3层墙，0层顶底，30%锯齿填充||
+|【可选】15mm间距硬盘支架|<img src="./assets/tray15mm.png" width="20%" />|6|PETG/ABS|7g 2.21m|1h42min|0.2mm|3层墙，0层顶底，30%锯齿填充|注意反过来打印|
+|背板|<img src="./assets/back_board.png" width="20%" />|1|PETG/ABS|22g 7.30m|5h12min|0.12mm/0.16mm|2层墙，1层顶底，60%锯齿填充|注意凹槽向下|
+|背盖|<img src="./assets/back_shim.png" width="20%" />|6|PETG/ABS|1g 0.39m|17min|0.12mm/0.16mm|2层墙，0层顶底，50%锯齿填充||
 
 - 材料费：按1kg 50元计算，683g=￥34
 - 电费：按市电0.7每度算，350W的打印机耗电38.5度=￥27
