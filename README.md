@@ -78,7 +78,7 @@
 
   - 小文件多可以选择500 GB × 6，视频、电影多可以选择3 TB × 6，或混合存储500 GB × 4 + 3 TB × 2等等
 - 【×1】120 GB SSD装在主板下方的内框上（闲鱼价格￥50左右，要求不高）
-- 【×1】128 GB NVMe SSD装在M.2接口上（三星PM991或者西数SN520，闲鱼价格￥40左右）
+- 【×1】128 GB 2242 NVMe SSD装在M.2接口上（三星PM991或者西数SN520，闲鱼价格￥40左右）
 - 【选配】【×1】外挂1 \~ 5TB移动硬盘到USB 3.0接口（480 MB/s）（￥500左右，建议西数移动硬盘Elements）
 - 总容量：3 \~ 18 TB内存储 + 128 GB SSD系统盘 + 120 GB SSD加速盘 + 1 \~ 5T外存储
 - 存储总价：￥480 \~ 2370
@@ -92,7 +92,8 @@
 <h1 align="center">独特的改进</h1>
 
 - 自制背板（成本低至30.9%）
-- 可进可出穿线孔（MIC、HDMI、移动硬盘等）
+- 可进可出穿线孔（耳机、HDMI、移动硬盘等）
+- 硬盘最大高度支持到15mm（除最右侧一块）
 
 <h2 align="center">自制背板成本低至30.9%</h2>
 
@@ -121,10 +122,20 @@
   <img src="./assets/outter.jpg" width="29.3%" />
   <img src="./assets/match.jpg" width="22%" />
 
+### 支持的两种型号的裸板
+
+  <img src="./assets/typesA.jpg" width="20%" />
+  <img src="./assets/typesB.jpg" width="20%" />
+
 ### 优势：
 
 - 只有USB 3.1 Type-C接口的情况下（比如Orange Pi 5主板）
 - PCIe 2.0 ×1的接口（480 MB/s）没有USB 3.1 Type-C（1250 MB/s）的速度快，该方案更合适
+
+<h2 align="center">硬盘最大高度支持到15mm</h2>
+
+  <img src="./assets/tray15mm1.jpg" width="20%" />
+  <img src="./assets/tray15mm2.jpg" width="20%" />
 
 <h2 align="center">为什么选择RK3588而不是J4125？</h2>
 
