@@ -22,7 +22,7 @@
 |内框|![](./assets/inside_shell.png)|1|PETG/PLA/ABS|194g 64.92m|26h40min|0.2mm精度，2层墙，0层顶底，30%锯齿填充||
 |硬盘笼|![](./assets/disk_case.png)|1|PETG/PLA/ABS|151g 50.55m|33h23min|0.2mm精度，2层墙，0层顶底，40%锯齿填充||
 |硬盘支架|![](./assets/tray.png)|6|PETG/ABS|11g 3.54m|1h51min|0.2mm精度，3层墙，0层顶底，30%锯齿填充||
-|【可选】15mm间距硬盘支架|![](./assets/tray15mm.png)|6|PETG/ABS|7g 2.33m|1h5min|0.2mm精度，3层墙，0层顶底，30%锯齿填充|注意反过来打印|
+|【可选】15mm厚度硬盘支架|![](./assets/tray15mm.png)|6|PETG/ABS|7g 2.33m|1h5min|0.2mm精度，3层墙，0层顶底，30%锯齿填充|注意反过来打印|
 |背板|![](./assets/back_board.png)|1|PETG/ABS|22g 7.30m|5h12min|0.12mm/0.16mm精度，2层墙，1层顶底，60%锯齿填充|注意凹槽向下|
 |背盖|![](./assets/back_shim.png)|6|PETG/ABS|1g 0.39m|17min|0.12mm/0.16mm精度，2层墙，0层顶底，50%锯齿填充||
 
@@ -72,7 +72,7 @@
 
     <img src="./assets/ST1500LM006.jpg" width="20%" />
 
-  - 西数蓝盘WD30NPRZ【3 TB】5400转 13.5 mm（容量最大的2.5英寸垂直盘，上面表里面没有列）（闲鱼价格在￥380左右）**（需要打印15mm间距硬盘支架）**
+  - 西数蓝盘WD30NPRZ【3 TB】5400转 13.5 mm（容量最大的2.5英寸垂直盘，上面表里面没有列）（闲鱼价格在￥380左右）**（需要打印15mm厚度硬盘支架）**
 
     <img src="./assets/WD30NPRZ.jpg" width="20%" />
 
@@ -83,7 +83,7 @@
 - 总容量：3 \~ 18 TB内存储 + 128 GB SSD系统盘 + 120 GB SSD加速盘 + 1 \~ 5T外存储
 - 存储总价：￥480 \~ 2370
 
-> ⚠ **注意：最右侧硬盘高度只支持到10 mm，如果满配6块3 TB，可以将主板下方的内框上SSD加速盘和最右侧硬盘对调**
+> ⚠ **注意：最右侧硬盘厚度只支持到10 mm，如果满配6块3 TB，可以将主板下方的内框上SSD加速盘和最右侧硬盘对调**
 
 ## 总成本
 
@@ -93,7 +93,7 @@
 
 - 自制背板（成本低至30.9%）
 - 可进可出穿线孔（耳机、HDMI、移动硬盘等）
-- 硬盘最大高度支持到15mm（除最右侧一块）
+- 硬盘最大厚度支持到15mm（除最右侧一块）
 
 <h2 align="center">自制背板成本低至30.9%</h2>
 
@@ -141,7 +141,7 @@
 - 只有USB 3.1 Type-C接口的情况下（比如Orange Pi 5主板）
 - PCIe 2.0 ×1的接口（480 MB/s）没有USB 3.1 Type-C（1250 MB/s）的速度快，该方案更合适
 
-<h2 align="center">硬盘最大高度支持到15mm</h2>
+<h2 align="center">硬盘最大厚度支持到15mm</h2>
 
   <a href="https://raw.githubusercontent.com/orcastor/case/master/assets/tray15mm1.jpg">
     <img src="./assets/tray15mm1.jpg" width="20%" />
