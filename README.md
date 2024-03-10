@@ -16,15 +16,15 @@
 
 - 衍生自[@汪汪队射手](https://space.bilibili.com/300702869)的[QNAS Mini](https://github.com/thunder439/QNASMINI)，非常感谢~
 
-|位置|图示|数量|材质|1.75mm用量|100mm/s耗时|配置||
+|位置|数量|材质|1.75mm用量|100mm/s耗时|配置|修改||
 |-|-|-|-|-|-|-|-|
-|外壳|![](./assets/outside_shell.png)|1|PETG/PLA/ABS|244g 103.89m|31h8min|0.2mm精度，2层墙，2层顶底，20%锯齿填充||
-|内框|![](./assets/inside_shell.png)|1|PETG/PLA/ABS|197g 66.07m|27h21min|0.2mm精度，2层墙，2层顶底，30%锯齿填充||
-|硬盘笼|![](./assets/disk_case.png)|1|PETG/PLA/ABS|151g 50.55m|33h23min|0.2mm精度，2层墙，0层顶底，40%锯齿填充||
-|硬盘支架|![](./assets/tray.png)|6|PETG/ABS|11g 3.54m|1h51min|0.2mm精度，3层墙，0层顶底，30%锯齿填充||
-|【可选】15mm厚度硬盘支架|![](./assets/tray15mm.png)|6|PETG/ABS|7g 2.33m|1h5min|0.2mm精度，3层墙，0层顶底，30%锯齿填充|注意反过来打印|
-|背板|![](./assets/back_board.png)|1|PETG/ABS|22g 7.30m|5h12min|0.12mm/0.16mm精度，2层墙，1层顶底，60%锯齿填充|注意凹槽向下|
-|背盖|![](./assets/back_shim.png)|6|PETG/ABS|1g 0.39m|17min|0.12mm/0.16mm精度，2层墙，0层顶底，50%锯齿填充||
+|外壳![](./assets/outside_shell.png)|1|PETG/PLA/ABS|244g 103.89m|31h8min|0.2mm精度，2层墙，2层顶底，20%锯齿填充|🆙增加LOGO|
+|内框![](./assets/inside_shell.png)|1|PETG/PLA/ABS|197g 66.07m|27h21min|0.2mm精度，2层墙，2层顶底，30%锯齿填充|🆙大幅修改：改风扇孔，改主板插孔，改电源孔，改SSD固定方式|
+|硬盘笼![](./assets/disk_case.png)|1|PETG/PLA/ABS|151g 50.55m|33h23min|0.2mm精度，2层墙，0层顶底，40%锯齿填充|🆙去除后背，背板为卡入式|
+|硬盘支架![](./assets/tray.png)|6|PETG/ABS|11g 3.54m|1h51min|0.2mm精度，3层墙，0层顶底，30%锯齿填充|-|
+|【可选】15mm厚度硬盘支架![](./assets/tray15mm.png)|6|PETG/ABS|7g 2.33m|1h5min|0.2mm精度，3层墙，0层顶底，30%锯齿填充|🆕新增|注意反过来打印|
+|背板![](./assets/back_board.png)|1|PETG/ABS|22g 7.30m|5h12min|0.12mm/0.16mm精度，2层墙，1层顶底，60%锯齿填充|🆕新增|注意凹槽向下|
+|背盖![](./assets/back_shim.png)|6|PETG/ABS|1g 0.39m|17min|0.12mm/0.16mm精度，2层墙，0层顶底，50%锯齿填充|🆕新增|
 
 - 材料费：按1kg 50元计算，728g=￥36.4
 - 电费：按市电0.7每度算，350W的打印机耗电40.6度=￥28.4
