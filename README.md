@@ -64,7 +64,7 @@
 ## 建议配置
 
 - 【×6】2.5英寸机械硬盘，附：[垂直盘、叠瓦盘型号大全](https://www.chiphell.com/thread-2352857-1-1.html?ivk_sa=1024320u)
-  - 西数黑盘WD5000LPLX【500 GB】7200转 7 mm（性能超好又足够大的垂直盘，实测150 MB/s）（闲鱼价格在￥65左右）
+  - 西数黑盘WD5000LPLX【500 GB】7200转 7 mm（性能超好又足够大的垂直盘，实测 **150 MB/s**）（闲鱼价格在￥65左右）
 
     <img src="./assets/WD5000LPLX.jpg" width="20%" />
 
@@ -72,7 +72,8 @@
 
     <img src="./assets/ST1500LM006.jpg" width="20%" />
 
-  - 西数蓝盘WD30NPRZ【3 TB】5400转 13.5 mm（容量最大的2.5英寸垂直盘，上面表里面没有列，实测100+ MB/s）（闲鱼价格在￥380左右）**（需要打印15mm厚度硬盘支架）**
+  - 西数蓝盘WD30NPRZ【3 TB】5400转 13.5 mm（容量最大的2.5英寸垂直盘，上面表里面没有列，实测 **100+ MB/s**）（闲鱼价格在￥380左右）
+    - **（需打印15mm厚度硬盘支架）**
 
     <img src="./assets/WD30NPRZ.jpg" width="20%" />
 
@@ -122,6 +123,7 @@
 
 ### 效果（严丝合缝）
 
+<p align="center">
   <a href="https://raw.githubusercontent.com/orcastor/case/master/assets/inner.jpg">
     <img src="./assets/inner.jpg" width="20%" />
   </a><a href="https://raw.githubusercontent.com/orcastor/case/master/assets/outter.jpg">
@@ -129,32 +131,45 @@
   </a><a href="https://raw.githubusercontent.com/orcastor/case/master/assets/match.jpg">
     <img src="./assets/match.jpg" width="22%" />
   </a>
+</p>
 
 ### 支持的两种型号的裸板
 
+<p align="center">
   <a href="https://raw.githubusercontent.com/orcastor/case/master/assets/typesA.jpg">
     <img src="./assets/typesA.jpg" width="20%" />
   </a><a href="https://raw.githubusercontent.com/orcastor/case/master/assets/typesB.jpg">
     <img src="./assets/typesB.jpg" width="20%" />
   </a>
+</p>
 
 ### 优势：
 
 - 只有USB 3.1 Type-C接口的情况下（比如Orange Pi 5主板）
 - PCIe 2.0 ×1的接口（2Gbps|250 MB/s）没有USB 3.1 Type-C（10Gbps|1250 MB/s）的速度快，该方案更合适
-- 但目前没有合适的USB 3.1的hub，使用USB 3.0版hub（5Gbps|625 MB/s）
+- 目前没有合适小尺寸或7口的USB 3.1 hub，暂用单个7口USB 3.0 hub（5Gbps|625 MB/s）
   - 6块盘如果全配3 TB蓝盘（100MB/s每块）（满速）
   - 如果是配置有黑盘（能到150MB/s每块），最多
     - 配置3块+2块3 TB蓝盘（满速）
-    - 4 \~5块黑盘（满速） + 1块SSD占用机箱后方的USB3.0单口（5Gbps|500 MB/s）
+    - 4 \~5块黑盘（满速） + 额外1块SSD占用机箱后方的USB3.0单口（5Gbps|500 MB/s）
 
 <h2 align="center">硬盘最大厚度支持到15mm</h2>
 
+<p align="center">
   <a href="https://raw.githubusercontent.com/orcastor/case/master/assets/tray15mm1.jpg">
     <img src="./assets/tray15mm1.jpg" width="20%" />
   </a><a href="https://raw.githubusercontent.com/orcastor/case/master/assets/tray15mm2.jpg">
     <img src="./assets/tray15mm2.jpg" width="36%" />
   </a>
+</p>
+
+<h2 align="center">主板下方内框上硬盘固定方式</h2>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/orcastor/case/master/assets/bottom.png">
+    <img src="./assets/bottom.png" width="30%" />
+  </a>
+</p>
 
 <h2 align="center">为什么选择RK3588S而不是J4125？</h2>
 
