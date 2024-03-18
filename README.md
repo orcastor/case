@@ -147,17 +147,17 @@
 ### 优势：
 
 - 只有USB 3.1 Type-C接口的情况下（比如Orange Pi 5主板）
-  - Orange Pi 5主板总共支持17.48Gbps：
-    - USB 3.1接口10Gbps
-    - USB 3.0接口5Gbps（共享后背白色USB 2.0接口）
+  - Orange Pi 5主板总共支持12.48Gbps：
+    - USB 3.1 Type C接口5Gbps（共享后背白色USB 2.0接口）
+    - USB 3.0接口5Gbps
     - PCIe 2.0 ×1接口2Gbps
     - USB 2.0接口0.48Gbps
-- PCIe 2.0 ×1的接口（2Gbps|250 MB/s）没有USB 3.1 Type-C（10Gbps|1250 MB/s）的速度快，该方案更合适
-- 如果没有合适小尺寸或7口的USB 3.1 hub，暂用单个7口USB 3.0 hub（5Gbps|625 MB/s）
+- PCIe 2.0 ×1的接口（2Gbps|250 MB/s）没有USB 3.1 Type-C（5Gbps|625 MB/s）的速度快，该方案更合适
+- 单个7口USB 3.0 hub（5Gbps|625 MB/s）
   - 6块盘如果全配3 TB蓝盘（100MB/s每块）（3.0 hub满速）
   - 如果配置有黑盘（能到150MB/s每块），最多
-    - 2块黑盘+3块3 TB蓝盘（3.0 hub满速） + 1块SSD接3.1 hub
-    - 4块黑盘（3.0 hub满速） + 1块SSD、1块3 TB蓝盘接3.1 hub（3.1 hub满速，蓝盘有可能供电不足）
+    - 2块黑盘+2块3 TB蓝盘（3.0 hub满速） + 1块SSD接后背USB 3.0口
+    - 4块黑盘（3.0 hub满速） + 1块SSD、1块3 TB蓝盘接后背USB 3.0口
 
 <h2 align="center">硬盘最大厚度支持到15mm</h2>
 
@@ -196,7 +196,9 @@
 <h2 align="center">风扇速度模式（参考友商）</h2>
 
 - 液压轴承3线款4010风扇×2（￥21.6）
+  - 15cm母头杜邦线（50根￥5.94）
 - 参考实现：
+  - https://github.com/orangepi-xunlong/orangepi-build/blob/5a7ad4954365a55c2a95d28286ed1a537441ce42/external/packages/blobs/rockchip/pwm-fan.sh
   - https://github.com/yanxiangrong/Fan-Control
   - https://blog.csdn.net/qq_37574109/article/details/134755295
 - 计划提供四种模式：
@@ -205,10 +207,3 @@
   - 静音模式：风扇以较低的速度工作，发出的噪音较少，但NAS的温度可能会升高。
   - 低功率模式：风扇以较低的速度工作，发出的噪音较少，但NAS的温度可能会升高。此外，当NAS冷却后，风扇会停止以节省电量。
 - TBC...
-
-<h2 align="center">接入USB 3.1 hub</h2>
-
-- 1转7口USB 3.0带供电口hub换成
-  - 1转4口USB 3.1 hub（CE-LINK二手￥19）
-  - 1转4口带供电USB 3.0 hub ×2（SSK飚王二手拆壳￥17）
-  - Type-C公头带软排线（￥7）
